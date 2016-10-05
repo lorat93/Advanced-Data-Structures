@@ -1,0 +1,3 @@
+Compressing binary.dat to outfile.txt
+binary.dat has a size of 53435 bytes
+outfile.txt has a size of 15009 bytes
